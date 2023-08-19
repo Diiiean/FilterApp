@@ -11,6 +11,7 @@
 		048E76082A8A338300F2DA97 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048E76072A8A338300F2DA97 /* ContentView.swift */; };
 		048E760A2A8A338400F2DA97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048E76092A8A338400F2DA97 /* Assets.xcassets */; };
 		048E760D2A8A338400F2DA97 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048E760C2A8A338400F2DA97 /* Preview Assets.xcassets */; };
+		048E76142A8A362000F2DA97 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048E76132A8A362000F2DA97 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		048E76072A8A338300F2DA97 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		048E76092A8A338400F2DA97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		048E760C2A8A338400F2DA97 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		048E76132A8A362000F2DA97 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				048E76072A8A338300F2DA97 /* ContentView.swift */,
 				048E76092A8A338400F2DA97 /* Assets.xcassets */,
 				048E760B2A8A338400F2DA97 /* Preview Content */,
+				048E76132A8A362000F2DA97 /* ImagePicker.swift */,
 			);
 			path = FilterApp;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				048E76142A8A362000F2DA97 /* ImagePicker.swift in Sources */,
 				048E76082A8A338300F2DA97 /* ContentView.swift in Sources */,
 				048E76062A8A338300F2DA97 /* FilterAppApp.swift in Sources */,
 			);
